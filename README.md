@@ -2,6 +2,10 @@
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript, designed to be hosted on AWS S3 with CloudFront CDN.
 
+🌐 **Live Website**: [http://your-portfolio-bucket-name.s3-website.ap-south-1.amazonaws.com/](http://your-portfolio-bucket-name.s3-website.ap-south-1.amazonaws.com/)
+
+📁 **GitHub Repository**: [https://github.com/kushalmehta2004/aws-static-portfolio](https://github.com/kushalmehta2004/aws-static-portfolio)
+
 ## 🚀 Features
 
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
