@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This is a modern, responsive website showcasing my journey as a developer and AWS cloud enthusiast.
 
-🌐 **Live Website**: [http://your-portfolio-bucket-name.s3-website.ap-south-1.amazonaws.com/](http://your-portfolio-bucket-name.s3-website.ap-south-1.amazonaws.com/)
+🌐 **Live Website**: [https://s3.ap-south-1.amazonaws.com/your-portfolio-bucket-name/index.html](https://s3.ap-south-1.amazonaws.com/your-portfolio-bucket-name/index.html)
 
 ## � About This Project
 
