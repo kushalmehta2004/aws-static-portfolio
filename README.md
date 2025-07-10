@@ -152,9 +152,6 @@ I'm always excited to connect with fellow developers and cloud enthusiasts!
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 - [CSS-Tricks](https://css-tricks.com/)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
@@ -162,6 +159,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 This portfolio marks the beginning of my cloud computing journey. Special thanks to the AWS community and documentation that made this learning experience possible.
 
-**Status**: ✅ Live and continuously improving!
-
-*Last updated: December 2024*
