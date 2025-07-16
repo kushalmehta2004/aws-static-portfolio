@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This is a modern, responsive website showcasing my journey as a developer and AWS cloud enthusiast.
 
 🌐 **Live Website**: [https://s3.ap-south-1.amazonaws.com/your-portfolio-bucket-name/index.html](https://s3.ap-south-1.amazonaws.com/your-portfolio-bucket-name/index.html)
-
+* Temporarily Unavailable — The website is currently down due to billing issues with my AWS account. I'm actively resolving this and it will be back online soon.
 ## � About This Project
 
 This portfolio represents my first major AWS project as I begin my cloud computing journey. I built this to:
